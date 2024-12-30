@@ -1,0 +1,12 @@
+{
+    "name": "com.il0021.gitmat",
+    "version": "1.0.0",
+    "displayName": "IL0021 Gitmat",
+    "description": "Package is a sample",
+    "unity": "2022.3",
+    "author": {
+        "name": "Innovate Labs",
+        "email": "arpit.chaurasia@innovate-labs.com",
+        "url": "https://www.innovate-labs.com"
+    }
+}
